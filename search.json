@@ -1,0 +1,597 @@
+[
+  
+    {
+      "first-name"      : "Abby",
+      "last-name"       : "Larson",
+      "job"             : "Sociologist/Human Behavior expert",
+      "categories"      : "Human Behavior, Behavior Change, Sociology, Product Market Fit, and Customer Acquisition",
+      "accomplishments" : "Fellow at Social Science Research Council for learning research, Fellow at Stanford for new learning science, and Expert in human behavior and social forces in knowledge economy",
+      "url"             : "/mentor/abbylarson/"
+    } ,
+  
+    {
+      "first-name"      : "Addy",
+      "last-name"       : "Beavers",
+      "job"             : "UX Design Lead for Google Play Books",
+      "categories"      : "UX Design, User Experience, Interface Design, Product Market Fit, Design Thinking, and Design Review",
+      "accomplishments" : "Ships products to hundreds of millions of users with Google Play Books, Former UX design manager at Yahoo, and Expert in UX design",
+      "url"             : "/mentor/addybeavers/"
+    } ,
+  
+    {
+      "first-name"      : "Adiba",
+      "last-name"       : "Barney",
+      "job"             : "CEO, SV Forum",
+      "categories"      : "Relationship Building, Marketing, Networking, Startup Development, Funding, Branding, Coaching, PR, and Communication",
+      "accomplishments" : "Launched Innovative Sweden, promoting Sweden as a host for innovation, Former Executive Director of Silicon Vikings, and Expert in relationship building",
+      "url"             : "/mentor/adibabarney/"
+    } ,
+  
+    {
+      "first-name"      : "Adi",
+      "last-name"       : "Widjonarko",
+      "job"             : "Investor",
+      "categories"      : "Investment, Merger & Acquisition, Strategic Partnerships, Angel Investing, Private Equity, Leveraged Buyouts, and Turnarounds",
+      "accomplishments" : "Investment expert for large funds, Singularity Partner in Indonesia, and Expert in SE Asia investment climate",
+      "url"             : "/mentor/adiwidjonarko/"
+    } ,
+  
+    {
+      "first-name"      : "Allen",
+      "last-name"       : "Taylor",
+      "job"             : "MD of Endeavor Catalyst; VP of Endeavor Global Network",
+      "categories"      : "Investment, Global Mentorship, Entrepreneurship, Business Development, Early Stage Investment, Late Stage Investment, Government, and Bootstraping",
+      "accomplishments" : "Connects a portfolio of 600 companies with US-based mentors and investors, Kauffman Fellow (Class 16), and Expert in funding and mentor team development",
+      "url"             : "/mentor/allentaylor/"
+    } ,
+  
+    {
+      "first-name"      : "Andy",
+      "last-name"       : "Billings",
+      "job"             : "VP of Profitable Creativity at Electronic Arts",
+      "categories"      : "Gaming, Leadership Development, Internal Innovation, Change Management, Team Building, Healthcare, and Global Expansion",
+      "accomplishments" : "14 years of developing leaders at EA’s Xcelerator Program, Co-Founder of EA University, and Expert in Leadership Development",
+      "url"             : "/mentor/andybillings/"
+    } ,
+  
+    {
+      "first-name"      : "Anne",
+      "last-name"       : "Cocquyt",
+      "job"             : "Senior Manager of Commercial Partnering, Genentech",
+      "categories"      : "Digital Health, Medical Tech, Product Market Fit, and Customer Acquisition",
+      "accomplishments" : "Internal innovation at Genentech, Co-founder of Bezl, and Expert in Digital Health",
+      "url"             : "/mentor/annecocquyt/"
+    } ,
+  
+    {
+      "first-name"      : "Anthony",
+      "last-name"       : "Batt",
+      "job"             : "President, Katalyst",
+      "categories"      : "PR, Marketing, Storytelling, Startup Development, Funding, Entertainment, Digital Media, Branding, Coaching, Communication, Product Market Fit, and Customer Acquisition",
+      "accomplishments" : "Award winning media programming for: Virgin Mobile, GE, Intel, Levi’s and Nikon, Board Member at CASHMusic, and Expert in Storytelling",
+      "url"             : "/mentor/anthonybatt/"
+    } ,
+  
+    {
+      "first-name"      : "Ben",
+      "last-name"       : "Adida",
+      "job"             : "Director of Engineering at Square",
+      "categories"      : "Product Market Fit, Engineering, Cryptography, Security, Privacy, Web Platform, Team Development, Creative Commons, Open Source, Health, IT, Software, and Bootstraping",
+      "accomplishments" : "Former Director of Engineering at Mozilla, Board of Directors for Creative Commons, and Expert on product-market fit and engineering",
+      "url"             : "/mentor/benadida/"
+    } ,
+  
+    {
+      "first-name"      : "Bret",
+      "last-name"       : "Reckard",
+      "job"             : "Talent Recruiter at Sequoia",
+      "categories"      : "HR, Recruiting, Team Building, Technical Staffing, and Talent Acquisition",
+      "accomplishments" : "Recruits top engineering teams at Sequoia, Former head of Recruiting at Mozilla, and Expert on talent acquisition",
+      "url"             : "/mentor/bretreckard/"
+    } ,
+  
+    {
+      "first-name"      : "Brian",
+      "last-name"       : "Barnier",
+      "job"             : "Principal Analyst and Advisor at Value Bridge Advisors",
+      "categories"      : "Governance, Disaster Management, Eastern Europe, Global Trade, and Risk Management",
+      "accomplishments" : "Board Member at World Conference on Disaster Management, Co-Chair of Open Compliance and Ethics Group, and Expert in Governance",
+      "url"             : "/mentor/brianbarnier/"
+    } ,
+  
+    {
+      "first-name"      : "Bryce",
+      "last-name"       : "Goodman",
+      "job"             : "Co-Founder, Blue Oak",
+      "categories"      : "Product Development, Recycling, Waste Management, Sustainability, Investment, and Acquisition",
+      "accomplishments" : "Developed and helped raise $35M for BlueOak project financing, Forbes 30 under 30: Energy, and Expert in product development",
+      "url"             : "/mentor/brycegoodman/"
+    } ,
+  
+    {
+      "first-name"      : "Chance",
+      "last-name"       : "Barnett",
+      "job"             : "CEO of Crowdfunder&lt;br&gt;&lt;br&gt;",
+      "categories"      : "Crowdfunding, Government, Entrepreneurship, Business Development, Early Stage Investment, Late Stage Investment, Scaling, and Bootstraping",
+      "accomplishments" : "Early advisor on JOBS Act legislation & regulation in Washington D.C., Forbes contributor on Startups and Crowdfunding, and Expert in crowdfunding and government engagement",
+      "url"             : "/mentor/chancebarnett/"
+    } ,
+  
+    {
+      "first-name"      : "Cher",
+      "last-name"       : "Jacques",
+      "job"             : "Regional Director of Africa, Kiva",
+      "categories"      : "Product Development, Strategy, Grant Writing, Program Management, Microfinance, and International Development",
+      "accomplishments" : "Board Member of the African Entrepreneur Collective, Former Program Manager at FINCA International and Expert in Microfinance",
+      "url"             : "/mentor/cherjacques/"
+    } ,
+  
+    {
+      "first-name"      : "Daniel",
+      "last-name"       : "Epstein",
+      "job"             : "CEO/Founder of Unreasonable Group",
+      "categories"      : "Impact, Entrepreneurship, Seed Stage Investment, Media, Venture Capital, Strategic Planning, and Partnerships",
+      "accomplishments" : "Helped Unreasonable companies raise $50M+, Forbes Top 30 Most Impactful Entrepreneur, and Expert in Impact",
+      "url"             : "/mentor/danielepstein/"
+    } ,
+  
+    {
+      "first-name"      : "Dan",
+      "last-name"       : "Portillo",
+      "job"             : "Talent Partner at Greylock Ventures",
+      "categories"      : "Recruiting, Company Growth, HR, Talent Acquisition, Technical Staffing, and Team Building",
+      "accomplishments" : "Led HR and recruiting at Mozilla, Council Member for Code2040, and Expert in recruiting",
+      "url"             : "/mentor/danportillo/"
+    } ,
+  
+    {
+      "first-name"      : "Dan",
+      "last-name"       : "Sutera",
+      "job"             : "Founder and President of Impact Enterprises",
+      "categories"      : "Product Development, Entrepreneurship, UX/UI Design, Social Impact, Strategic Planning, Outsourcing, Nonprofit Management, and Local Community Empowerment",
+      "accomplishments" : "Co-Founder of Citrix ShareFile, VP of Product at Yext, and Expert in Product Development",
+      "url"             : "/mentor/dansutera/"
+    } ,
+  
+    {
+      "first-name"      : "Darren",
+      "last-name"       : "Cassidy",
+      "job"             : "Chief Product Officer DX Design Lab",
+      "categories"      : "Design, Project Management, Drones, UX/UI Design, E-commerce, Web Development, and Electrical Engineering",
+      "accomplishments" : "VP of Product Development at Net32, Usability and Product Architect at PrecisionHawk (Drone company), and Expert in Product Design",
+      "url"             : "/mentor/darrencassidy/"
+    } ,
+  
+    {
+      "first-name"      : "David",
+      "last-name"       : "Austin",
+      "job"             : "VP at PCH Access",
+      "categories"      : "Hardware, Product Development, User Interface, Manufacturing, Sourcing, Mergers and Acquisition, and Team Building",
+      "accomplishments" : "Worked 17 years at Apple doing hardware design, Managing Director Sunair Ventures LLC, and Expert on hardware sourcing and production",
+      "url"             : "/mentor/davidausten/"
+    } ,
+  
+    {
+      "first-name"      : "David",
+      "last-name"       : "Hite",
+      "job"             : "Managing Partner, Bridge 37 Ventures",
+      "categories"      : "Startup Development, Funding, Team Building, Due Diligence, and Corporate Structuring",
+      "accomplishments" : "Invests in post-acceleration to Series A stage ventures, Has created 15 startup teams in 11 countries, and Expert in Emerging Markets",
+      "url"             : "/mentor/davidhite/"
+    } ,
+  
+    {
+      "first-name"      : "Dean",
+      "last-name"       : "Sawyer",
+      "job"             : "CEO of Sentrian",
+      "categories"      : "Human Behavior, Behavior Change, Sociology, Product Market Fit, and Customer Acquisition",
+      "accomplishments" : "Former VP of Allscripts (Grew revenue $180M), Increased Physicians Interactive revenue from $1M to $30M, and Expert in Healthcare IT",
+      "url"             : "/mentor/deansawyer/"
+    } ,
+  
+    {
+      "first-name"      : "Dia",
+      "last-name"       : "Bondi",
+      "job"             : "Executive Producer of Creative Marketing, Twitter",
+      "categories"      : "Leadership Development, Pitch, Digital Marketing, and Customer Acquisition",
+      "accomplishments" : "Former Brand Narrative Content Lead at Mozilla , Speaker Coach for the succesful Rio2016 Olympic Bid, and Expert in Branding",
+      "url"             : "/mentor/diabondi/"
+    } ,
+  
+    {
+      "first-name"      : "Dmitriy",
+      "last-name"       : "Tseliakhovich",
+      "job"             : "CEO, CTO, and Co-founder Escape Dynamics",
+      "categories"      : "Aerospace, Physics, Structural Engineering, CAD, and Propulsion Systems",
+      "accomplishments" : "Launching spacecraft using high-powered microwaves, Graduate Studies Program ‘10 alum, and Expert in aerospace and physics ",
+      "url"             : "/mentor/dmitriytseliakhovic/"
+    } ,
+  
+    {
+      "first-name"      : "Ed",
+      "last-name"       : "Fernandez",
+      "job"             : "Partner &amp; Co-founder at Naiss.io",
+      "categories"      : "Venture Capital, Angel Investment, Strategy, GoToMarket, Mobile Platforms, Wearables, Data Analytics, Telco, and AI",
+      "accomplishments" : "Early stage VC, Advisor, Investor, Analyst & Entrepreneur, Member of YPO Young Presidents' Organization, and Expert in new venture strategic planning, strategic alliances & go to market planning",
+      "url"             : "/mentor/edfernandez/"
+    } ,
+  
+    {
+      "first-name"      : "Eli",
+      "last-name"       : "Bressert",
+      "job"             : "Manager of Data Labs at Stitch Fix",
+      "categories"      : "Data Design, Data Science, Data Platforms and Technology, Cloud Computing, and Machine Learning",
+      "accomplishments" : "Astrophysicist who researched the formation of stars, Former data scientist at Jawbone, and Expert in analyzing large data",
+      "url"             : "/mentor/elibressert/"
+    } ,
+  
+    {
+      "first-name"      : "Eshwar",
+      "last-name"       : "Belani",
+      "job"             : "Products &amp; Alliances, Rubrik Inc.",
+      "categories"      : "Product Development, Strategy, Digital Marketing, AI, E-commerce, and Big Data",
+      "accomplishments" : "Former VP of Strategy at Rocket Fuel, Founder and CEO at Sensact Applications, and Expert in Product Development",
+      "url"             : "/mentor/eswharbelani/"
+    } ,
+  
+    {
+      "first-name"      : "Eugenie",
+      "last-name"       : "Rives",
+      "job"             : "Operations Manager, Google[x]",
+      "categories"      : "Product Development, Strategy, Digital Marketing, Mobile, E-commerce, and Hardware",
+      "accomplishments" : "Former Head of Operations, New Products and Solutions at Google, Former Head of Strategy and Operations of Google Africa, and Expert in Product Development",
+      "url"             : "/mentor/eugenierives/"
+    } ,
+  
+    {
+      "first-name"      : "Evonna",
+      "last-name"       : "Karchon",
+      "job"             : "Partner at IncWell Ventures",
+      "categories"      : "Hardware Funding, Automotive, Medical, Investments, and Partnerships",
+      "accomplishments" : "Helps develop tech startups in automotive industry, Formerly at Stage 2 Innovations ($100M fund), and Expert in funding and due diligence",
+      "url"             : "/mentor/evonnakarchon/"
+    } ,
+  
+    {
+      "first-name"      : "Florian",
+      "last-name"       : "Kolb",
+      "job"             : "Director, RWE",
+      "categories"      : "Mergers & Acquisitions, Energy, Corporate Finance, Internal Innovation, Solar, IoT, and Infrastructure",
+      "accomplishments" : "Head of Silicon Valley division of RWE (emerging energy tech), Leads merger deals worth over $10B at RWE, and Expert in Energy and Corporate Finance",
+      "url"             : "/mentor/floriankolb/"
+    } ,
+  
+    {
+      "first-name"      : "Gaby",
+      "last-name"       : "Levine",
+      "job"             : "COO of Protei Inc.",
+      "categories"      : "Hardware Development, Ocean Research, Drones, Rapid Prototyping, UX/UI, and Project Managment",
+      "accomplishments" : "Develops sailing drones to transport equipment and monitor fish stock, Hardware Developer at the Windmill Factory, and Expert in Hardware Development",
+      "url"             : "/mentor/gabylevine/"
+    } ,
+  
+    {
+      "first-name"      : "Gayle",
+      "last-name"       : "Young",
+      "job"             : "Chief Talent and Culture Officer at Wikimedia Foundation",
+      "categories"      : "Team building, Human Capital, Hiring, Team Dynamic, Executive Coaching, Leadership Development, Organizational Development, and Change Management",
+      "accomplishments" : "Chief Talent and Culture Officer at Wikimedia Foundation, Former Board President of Spark, and Expert in Team Building",
+      "url"             : "/mentor/gayleyoung/"
+    } ,
+  
+    {
+      "first-name"      : "Greg",
+      "last-name"       : "Isaacs",
+      "job"             : "SVP Native and Entertainment, Corbis",
+      "categories"      : "Digital Media, Online Learning, E-commerce, Gaming, Mobile Development, Customer Acquisition, and Strategic Partnerships",
+      "accomplishments" : "Former VP and General Manager of Digital Media - NFL, Former VP and General Manager of Digital Media - AT&T Interactive, and Expert in Digital Media",
+      "url"             : "/mentor/gregisaacs/"
+    } ,
+  
+    {
+      "first-name"      : "Ja-Nae",
+      "last-name"       : "Duane",
+      "job"             : "Co-Author, Startup Equation",
+      "categories"      : "Product Market Fit, Growth Hacking, Creative Industries, Social Metrics, Marketing, Idea Validation, Design Thinking, and Team Building",
+      "accomplishments" : "Leader of the Revolution Institute, Professor at Emerson College and Northeastern University, and Expert in Startup Development",
+      "url"             : "/mentor/ja-naeduane/"
+    } ,
+  
+    {
+      "first-name"      : "James",
+      "last-name"       : "Han",
+      "job"             : "Global VP of Marketing, Product Management, and Business Development for Tyco",
+      "categories"      : "Team Building, Innovation, Sales Growth, Strategy, Internal Innovation, Product Management, Global Development, Electronics, and Leadership",
+      "accomplishments" : "Leadership of Management and Marketing functions for a $3.1B product portfolio, Earned Tyco 14 major innovation awards, and Expert in Internal Innovation",
+      "url"             : "/mentor/jameshan/"
+    } ,
+  
+    {
+      "first-name"      : "Jane",
+      "last-name"       : "Miller",
+      "job"             : "CEO of ProYo Frozen Yogurt",
+      "categories"      : "Food, Business Strategy, Marketing, and Strategic Planning",
+      "accomplishments" : "CEO of ProYo Frozen Yogurt, Former Division President of Frito Lay (PepsiCo), and Expert in food industry and business turnarounds",
+      "url"             : "/mentor/janemiller/"
+    } ,
+  
+    {
+      "first-name"      : "Jean-Claude",
+      "last-name"       : "Junqua",
+      "job"             : "VP of Innovation &amp; Product Development, Panasonic",
+      "categories"      : "Product Development, Financial Planning, Innovation, and Research",
+      "accomplishments" : "Product development in Long Term Care and Seniors for Panasonic, Worked with European Commission on Eurocentric projects, and Expert in Product Development",
+      "url"             : "/mentor/jeanclaudejunqua/"
+    } ,
+  
+    {
+      "first-name"      : "Jeffery",
+      "last-name"       : "Tseng",
+      "job"             : "CEO of Crowdstar",
+      "categories"      : "Game Development, Interactive Environments, Virtual Reality, and Mobile Design",
+      "accomplishments" : "Former Creative Director at Secret Level (console game development), Created several AAA category console gaming titles, and Expert in Gaming",
+      "url"             : "/mentor/jefferytseng/"
+    } ,
+  
+    {
+      "first-name"      : "Jeremy",
+      "last-name"       : "Blum",
+      "job"             : "Hardware Astronaut at Google X",
+      "categories"      : "Hardware Hacking, Engineering, Electronic Design, Prototyping, Embedded Systems, Mechatronic Design, and 3D Printing",
+      "accomplishments" : "Tutors millions of followers in Arduino development, Designed the electronics for MakerBot Replicator 3D printers, and Expert in Hardware Hacking",
+      "url"             : "/mentor/jerremyblum/"
+    } ,
+  
+    {
+      "first-name"      : "Jim",
+      "last-name"       : "Cook",
+      "job"             : "CFO of Mozilla",
+      "categories"      : "Finance, Financial Structuring, IPO Navigation, Mergers and Acquisition, Venture Capital, Strategic Planning, E-Commerce, and Partnerships",
+      "accomplishments" : "Helped grow Mozilla from 25 to 750 employees, One of the early co-founders of Netflix, and Expert in Finance",
+      "url"             : "/mentor/jimcook/"
+    } ,
+  
+    {
+      "first-name"      : "Joanna",
+      "last-name"       : "Weidenmiller",
+      "job"             : "CEO of 1 Page",
+      "categories"      : "Recruiting, Gamification, E-commerce, Social Media, Marketing, Business Development, Customer Acquisition, and Strategic Partnerships",
+      "accomplishments" : "Founded and Developed $100M Recruiting Platform, Former Advisor and Partner at 360 Fashion Network, and Expert in Recruiting and Team Building",
+      "url"             : "/mentor/joannaweidenmiller/"
+    } ,
+  
+    {
+      "first-name"      : "John",
+      "last-name"       : "Merrells",
+      "job"             : "Independent Badass/Consultant",
+      "categories"      : "Scale, Product Market Fit, Software Architecture, Distributed Systems, Query Processors, Entrepreneurship, Business Development, Early Stage Investment, Late Stage Investment, Scaling, and Database",
+      "accomplishments" : "Former Senior Architect at Sencha Inc., Heavily involved in advising early and late stage companies, and Expert in bringing products to market",
+      "url"             : "/mentor/johnmerrells/"
+    } ,
+  
+    {
+      "first-name"      : "Ketan",
+      "last-name"       : "Patel",
+      "job"             : "Chief Medical Officer at SyTrue",
+      "categories"      : "Health IT, Medical Devices, Clinical Workflow Optimization, Chronic Pain Management, Risk Management, Billing, Insurance, and Hospitals",
+      "accomplishments" : "Technical Advisor at Zoic Capital ($40M life sciences start-up funding), CEO at PainCare OS, and Expert in health data",
+      "url"             : "/mentor/ketanpatel/"
+    } ,
+  
+    {
+      "first-name"      : "Kevin",
+      "last-name"       : "Starr",
+      "job"             : "Managing Director at Mulago Foundation",
+      "categories"      : "Impact Evaluation, Scaling, and Health",
+      "accomplishments" : "Invested in 50+ global ventures through Mulago Foundation, Director of Reinhold Arnold Fellows Program, and Expert on evaluating venture impact",
+      "url"             : "/mentor/kevinstarr/"
+    } ,
+  
+    {
+      "first-name"      : "Kevin",
+      "last-name"       : "Webb",
+      "job"             : "Director at Webb Investment Network",
+      "categories"      : "Funding Structure, Fundraising, Entrepreneurship, Seed Stage Investment, Growth, and Early Stage Investment",
+      "accomplishments" : "Evaluates hundreds of companies for investment potential, Interested in nurturing growing entrepreneurs, and Expert on funding",
+      "url"             : "/mentor/kevinwebb/"
+    } ,
+  
+    {
+      "first-name"      : "Lance",
+      "last-name"       : "Cassidy",
+      "job"             : "CEO of DX Design Lab",
+      "categories"      : "Design, Project Management, Drones, UX/UI Design, Design Thinking, and Rapid Prototyping",
+      "accomplishments" : "Senior Usability Advisor at PrecisionHawk (Drone company), Former UX Designer at Lenovo, and Expert in Product Design",
+      "url"             : "/mentor/lancecassidy/"
+    } ,
+  
+    {
+      "first-name"      : "Lorne",
+      "last-name"       : "Noble",
+      "job"             : "Principal, Simple Startup Finance",
+      "categories"      : "Financial Modeling, Systems and Processes, Bookeepingt, and Business Model Analysis",
+      "accomplishments" : " Former Analyst - undertook due diligence on $2.5bn of investment transactions, CEO & Co-founder of CareerMentorMe, and Expert in Financial Modeling",
+      "url"             : "/mentor/lornenoble/"
+    } ,
+  
+    {
+      "first-name"      : "Lucas",
+      "last-name"       : "Nelson",
+      "job"             : "Principal, Gotham Ventures",
+      "categories"      : "Hacking, Security, Software, Healthcare, Cloud Computing, and Venture Capital",
+      "accomplishments" : "Former Kauffman Fellow and Chair of DefCon, Adjunct Faculty at NYU School of Engineering, and Expert in Security",
+      "url"             : "/mentor/lucasnelson/"
+    } ,
+  
+    {
+      "first-name"      : "Marco",
+      "last-name"       : "Demiroz",
+      "job"             : "Managing Director at Evolution Media Capital",
+      "categories"      : "Product Market Fit, Gaming, Content, Entertainment, Mobile, Film, Wearables, IoT, OTT, Social Media, Cloud Computing, Disruptive Technology, Venture Capital, Growth Equity, and Investment",
+      "accomplishments" : "Former CEO of PlayFirst - Diner Dash series game has 650M+ downloads, 20 years experience as a global investor and a corporate executive, and Expert on product-market fit",
+      "url"             : "/mentor/marcodemiroz/"
+    } ,
+  
+    {
+      "first-name"      : "Matthias",
+      "last-name"       : "Wagner",
+      "job"             : "Product Advisor at We Create Stuff",
+      "categories"      : "Product Development, UX/UI, Team Building, Design Thinking, Mobile Development, and Entertainment Industry",
+      "accomplishments" : "Former VP of Technology and Growth at Soma Water, Serial entrepreneur with 5 exits, and Expert in Product Development",
+      "url"             : "/mentor/mattiaswagner/"
+    } ,
+  
+    {
+      "first-name"      : "Myk",
+      "last-name"       : "Melez",
+      "job"             : "Technical Lead at Mozilla&lt;br&gt;&lt;br&gt;",
+      "categories"      : "Software, Apps, Code Archaeology, Forward Engineering, Technical Leadership, Team Management, Web Platforms, Software Development, and Client Software",
+      "accomplishments" : "Webtool hacker for Mozilla, Takes products from experimental to feature stage, and Expert in building web platforms",
+      "url"             : "/mentor/mykmelez/"
+    } ,
+  
+    {
+      "first-name"      : "Nola",
+      "last-name"       : "Masterson",
+      "job"             : "Chair of Board of Board of Directors, Repros Therapeutics Inc.",
+      "categories"      : "Public company Board duties, Financings, M&A, CEO coaching, Marketing, Biotechnology, and Medical Technology",
+      "accomplishments" : "Managing Director for Science Futures Inc., Helped lead companies to over $50B in evaluations, and Expert in Biotechnology",
+      "url"             : "/mentor/nolamasterson/"
+    } ,
+  
+    {
+      "first-name"      : "Paul",
+      "last-name"       : "Breloff",
+      "job"             : "Managing Director, Accion Venture Labs",
+      "categories"      : "Microfinance, Foreign Aid, Mobile Banking, and Investing",
+      "accomplishments" : "Former VP of Business Development at SKS Microfinance, Advisor to BRAC, Root Capital and Shell Foundation, and Expert in Financial Inclusion",
+      "url"             : "/mentor/paulbreloff/"
+    } ,
+  
+    {
+      "first-name"      : "Philipp",
+      "last-name"       : "Pieper",
+      "job"             : "CEO, Lighthouse Interactive",
+      "categories"      : "Product Market Fit, E-commerce, Digital Media, Venture Capital, Business Development, Customer Acquisition, and Strategic Partnerships",
+      "accomplishments" : "Angel investor and builder of start-ups at the intersection of mobile, video and data , Founder and CEO of Proximic (acquired by comScore), and Expert in product-market fit and business building",
+      "url"             : "/mentor/philipppiper/"
+    } ,
+  
+    {
+      "first-name"      : "Prashant",
+      "last-name"       : "Pathak",
+      "job"             : "CEO, Ekagrata Inc.",
+      "categories"      : "Product Development, Strategy, IT, Venture Capital, Oil and Mineral, and International Operations",
+      "accomplishments" : "Board Member of the Business Development Bank of Canada, Former leader of the North American Telecom Practice at McKinsey , and Expert in Product Development",
+      "url"             : "/mentor/prashantpathak/"
+    } ,
+  
+    {
+      "first-name"      : "Rafe",
+      "last-name"       : "Furst",
+      "job"             : "Co-Founder, Crowdfunder",
+      "categories"      : "Business Growth, Marketing, Networking, Startup Development, Funding, Entertainment, Digital Media, Branding, Coaching, PR, and Communication",
+      "accomplishments" : "Founded or was a first round angel investor in over 30 startups - which have generate over $1B in revenue, Curator at Accelerating Possibilities, and Expert in Social Entrepreneurship",
+      "url"             : "/mentor/rafefurst/"
+    } ,
+  
+    {
+      "first-name"      : "Ramez",
+      "last-name"       : "Naam",
+      "job"             : "Author and Speaker, Infinite Resource",
+      "categories"      : "Energy and Environment, Product Management, User experience, Product market fit, Sustainability, and Public Speaking",
+      "accomplishments" : "Former Product Manager at Microsoft (helped develop Bing, Explorer, Outlook), Multi-award winning author, and Expert in Environment and Energy",
+      "url"             : "/mentor/rameznaam/"
+    } ,
+  
+    {
+      "first-name"      : "Randy",
+      "last-name"       : "Haykin",
+      "job"             : "Chairman &amp; Founder, Haykin Capital | Gratitude Network",
+      "categories"      : "Funding, Software Investment, Enterprise/Corporate Sales and Marketing, Angel Investment, and Venture Capital",
+      "accomplishments" : "Co-founded Outlook Ventures, which has funded 34 early-stage technology firms, Lecturer at UC Berkeley Haas School of Business, and Expert in funding and tech startups",
+      "url"             : "/mentor/randyhaykin/"
+    } ,
+  
+    {
+      "first-name"      : "Rich",
+      "last-name"       : "Cox",
+      "job"             : "Founder of People Rocket",
+      "categories"      : "Storytelling, Coaching, Speaking, Strategy Development, Leadership, Change Management, and Design Thinking",
+      "accomplishments" : "Lecturer at Stanford Graduate School of Business, Principal Consultant at Lime Design Associates, and Expert in Storytelling",
+      "url"             : "/mentor/richcox/"
+    } ,
+  
+    {
+      "first-name"      : "Rodrigo",
+      "last-name"       : "Sanchez Servitje",
+      "job"             : "Managing Partner, Bridge 37 Ventures",
+      "categories"      : "Investment, Funding, and Due Diligence",
+      "accomplishments" : "Invests in post-acceleration to Series A stage ventures, Former Principal - Gerbera Capital (Mexico City), and Expert in Investment",
+      "url"             : "/mentor/rodrigosanchez/"
+    } ,
+  
+    {
+      "first-name"      : "Samuel",
+      "last-name"       : "Arbesman",
+      "job"             : "Scientist in Residence, Lux Capital",
+      "categories"      : "Computational Biology, Big Data, Public Policy, and Computer Science",
+      "accomplishments" : "Former Fellow at Silicon Flatirons Center for Law, Research Fellow at the Long Now Foundation, and Expert in Computational Biology",
+      "url"             : "/mentor/samuelarbesman/"
+    } ,
+  
+    {
+      "first-name"      : "Sarah",
+      "last-name"       : "Applebaum",
+      "job"             : "Associate at Pangaea Ventures",
+      "categories"      : "Material Science, Sourcing, and Production",
+      "accomplishments" : "Associate at Pangaea Ventures, Co-Lead of Woman 2.0 Founder Friday, and Expert in material science",
+      "url"             : "/mentor/sarahapplebaum/"
+    } ,
+  
+    {
+      "first-name"      : "Sean",
+      "last-name"       : "Bonner",
+      "job"             : "Co-Founder and Global Director, Safe Cast",
+      "categories"      : "Hardware, Mapping, Media, PR, Communication, and Advertising",
+      "accomplishments" : "Involved in Fukushima radiation mapping, Helped to chart global radiation levels with low cost sensors, and Expert in hardware development/design",
+      "url"             : "/mentor/seanbonner/"
+    } ,
+  
+    {
+      "first-name"      : "Steven",
+      "last-name"       : "Fisher",
+      "job"             : "Co-Author, Startup Equation",
+      "categories"      : "Space, Aviation, Travel, Technology, Telecommunications, Financial Services, Smart Cities, Big Data, Robotics, Product Design and Development, and Fund Raising",
+      "accomplishments" : "Co-Founder and Managing Director of the Revolution Factory, Head of User Experience at NetApp, and Expert in Startup Development",
+      "url"             : "/mentor/stevenfisher/"
+    } ,
+  
+    {
+      "first-name"      : "Tom",
+      "last-name"       : "Chi",
+      "job"             : "CPO and Head of X at Factory",
+      "categories"      : "Rapid Prototyping, Product Design, Product Development, User Interface/Interaction, User Experience, Testing, QA, Electrical Engineering, and Product Market Fit",
+      "accomplishments" : "Former Head of Experience at Google X (developed Google Glass), Former Senior Director of Product and User Experience at Yahoo, and Expert on rapid prototyping and product design",
+      "url"             : "/mentor/tomchi/"
+    } ,
+  
+    {
+      "first-name"      : "Tom",
+      "last-name"       : "Rausch",
+      "job"             : "Co-Founder and Director Good World Solutions",
+      "categories"      : "Supply Chain, Global Trade, Procurement, Corporate Social Responsibility, International Development, Program Evaluation, Farming and Agriculture, Food Security, Emergency Response, and Disaster Relief",
+      "accomplishments" : "Co-Founder and Director of Good World Solutions, Former Commercialization Director for Pride Africa, and Expert in Supply Chain transparency in the developing world",
+      "url"             : "/mentor/tomrausch/"
+    } ,
+  
+    {
+      "first-name"      : "Tracy",
+      "last-name"       : "Demiroz",
+      "job"             : "VP of Corporate Marketing at Keyssa",
+      "categories"      : "Marketing, Strategy, E-commerce, Advertising, Product Management, Social Media, and Brand Management",
+      "accomplishments" : "Former VP of Marketing at Tempo AI, Marketing Consultant at Google and Glooko, and Expert in Marketing",
+      "url"             : "/mentor/tracydemiroz/"
+    } 
+  
+]
